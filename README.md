@@ -26,18 +26,18 @@ The amount of effort I can put into the project depends on contributions from pe
 If you have some spare cash and would like to support future development make a contribution at ko.fi
 
 * make the build easier by converting parts to 3d printable versions
+* start a shop where you can buy all the parts in a kit
 * improve software
 * expand game support
-* use magnetic rotation sensors instead of potentiometers
+* replace potentiometers with magnetic rotation sensors
 * improve aesthetics
-* build other cool stuff
+* build other cool stuff like pedals, collective etc
 
 ## how it works
 
 The joystick is actuated by four large syringes that act as pneumatic actuators. The actuators are controlled by valves and air pumps that vary the pressure in each syringe thereby varying the amount that each syringe pushes on the stick. 
 
-In the pitch axis, one syringe pitches the stick forward and its counterpart pushes the stick back. The airflow between the two syringes can be closed off, which causes the stick to want to return to the point where it was when the valve was closed (centering or biased centering). Alternatively, the air passage between syringes can be left open (no centering). Tension is controlled by varying the pressure in the syringes through the dump valve and air pump.
-
+In the pitch axis, one syringe pitches the stick forward and its counterpart pushes the stick back. The airflow between the two syringes can be closed off, which causes the stick to want to return to the point where it was when the valve was closed (centering and biased centering). Alternatively, the air passage between syringes can be left open (no centering). Tension is controlled by varying the pressure in the syringes through the dump valves and air pumps.
 
 
 ## how trim works in airplanes

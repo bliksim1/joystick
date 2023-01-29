@@ -6,7 +6,7 @@ The joystic can transistion between
 * off-center bias (returns to somewhere other than center)
 * no centering (stays where you leave it - more or less - WIP)
 
-as well as varying the pressure needed to move the stick. 
+as well as varying the pressure required to move the stick. 
 
 It can be controlled by physical buttons or by a UDP data stream coming from a computer.
 The joystick action is smooth because it uses pneumatic actuators instead of electrical motors. 

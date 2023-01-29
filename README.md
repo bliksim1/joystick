@@ -28,6 +28,7 @@ If you have some spare cash and would like to support future development make a 
 * make the build easier by converting parts to 3d printable versions
 * improve software
 * expand game support
+* use magnetic rotation sensors instead of potentiometers
 * improve aesthetics
 * build other cool stuff
 

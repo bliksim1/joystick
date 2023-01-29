@@ -5,7 +5,7 @@ It can be controlled by physical buttons or by a UDP data stream coming from a c
 The joystick action is smooth because it uses pneumatic actuators instead of electrical motors. 
 
 ## why
-Just like in the glider I like to fly, I wanted a joysick that has could have no centering while sitting on the ground - basically just flops to wherever it is pushed. Once I'm in the air it should require more pressure to move and should push backward, requiring trim.
+Just like in the glider I like to fly, I wanted a joysick that has could have no centering while sitting on the ground and basically just flop to wherever it is pushed. Once I'm in the air it should require more pressure to move and should push backward, requiring trim.
 
 ## how trim works in airplanes
 The position and tension of the stick changes as airflow over the control surfaces increase (ailerons, rudder and elevator).

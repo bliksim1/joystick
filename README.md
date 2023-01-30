@@ -16,9 +16,8 @@ The joystick action is smooth because it uses pneumatic actuators instead of ele
 * The project is at prototype stage (works for me, but ugly)
 * It is open source (GPLv3)
 * It is intended to be easy to build with fairly basic tools  
-* It is intended to use easy to source components
-* It is intended to use low cost components  
-* Documentation is in progress
+* It is intended to use easily sourced, low cost components
+* [Documentation](https://github.com/bliksim1/joystick/wiki) is in progress
 
 If you would like to build a prototype version you can find [instructions in the wiki](https://github.com/bliksim1/joystick/wiki/Build).
 

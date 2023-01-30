@@ -20,6 +20,8 @@ The joystick action is smooth because it uses pneumatic actuators instead of ele
 * It is intended to use low cost components  
 * Documentation is in progress
 
+If you would like to build a prototype version you can find [instructions in the wiki](https://github.com/bliksim1/joystick/wiki/Build).
+
 ## initial version
 
 I specifically wanted something that works for the UH-1H Huey helicopter in Digital Combat Simulator (DCS).
@@ -46,5 +48,7 @@ Depending on community support I would like to:
 The joystick is actuated by four large syringes that act as pneumatic actuators. The actuators are controlled by valves and air pumps that vary the pressure in each syringe thereby varying the amount that each syringe pushes on the stick. 
 
 In the pitch axis, one syringe pitches the stick forward and its counterpart pushes the stick back. The airflow between the two syringes can be closed off, which causes the stick to want to return to the point where it was when the valve was closed (centering and biased centering). Alternatively, the air passage between syringes can be left open (no centering). Tension is controlled by varying the pressure in the syringes through the dump valves and air pumps.
+
+for more details see the [videos in the wiki](https://github.com/bliksim1/joystick/wiki#videos)
 
 

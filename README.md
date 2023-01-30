@@ -40,10 +40,3 @@ The joystick is actuated by four large syringes that act as pneumatic actuators.
 In the pitch axis, one syringe pitches the stick forward and its counterpart pushes the stick back. The airflow between the two syringes can be closed off, which causes the stick to want to return to the point where it was when the valve was closed (centering and biased centering). Alternatively, the air passage between syringes can be left open (no centering). Tension is controlled by varying the pressure in the syringes through the dump valves and air pumps.
 
 
-## how trim works in airplanes
-The position and tension of the stick changes as airflow over the control surfaces increase (ailerons, rudder and elevator).
-In basic airplanes the pilot literally feels the airflow pushing against the control surfaces through the controls. 
-Trim counteracts these forces and reduces the need for the pilot to constantly push or pull against the controls in order to maintain the desired flight attitude.  
-Mentour pilot gives a good explanation here: https://youtu.be/Fp04O0SuPbI?t=117
-
-## how trim works in helicopters

@@ -1,4 +1,4 @@
-# Bliksim joystick - UH-1H Huey edition
+# Bliksim joystick - UH-1H Huey helicopter edition
 An DIY JOYSTICK for flight simulation that allows complete control over centering and tension. 
 
 The joystic can transistion between
@@ -49,6 +49,6 @@ The joystick is actuated by four large syringes that act as pneumatic actuators.
 
 In the pitch axis, one syringe pitches the stick forward and its counterpart pushes the stick back. The airflow between the two syringes can be closed off, which causes the stick to want to return to the point where it was when the valve was closed (centering and biased centering). Alternatively, the air passage between syringes can be left open (no centering). Tension is controlled by varying the pressure in the syringes through the dump valves and air pumps.
 
-for more details see the [videos in the wiki](https://github.com/bliksim1/joystick/wiki#videos)
+for more details see the [videos in the wiki](https://github.com/bliksim1/joystick/wiki#videos).
 
 

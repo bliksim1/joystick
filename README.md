@@ -1,4 +1,4 @@
-# joystick
+# Bliksim joystick - UH-1H Huey edition
 An DIY JOYSTICK for flight simulation that allows complete control over centering and tension. 
 
 The joystic can transistion between
@@ -20,15 +20,23 @@ The joystick action is smooth because it uses pneumatic actuators instead of ele
 * It is intended to use low cost components  
 * Documentation is in progress
 
+## initial version
+
+I specifically wanted something that works for the UH-1H Huey helicopter in Digital Combat Simulator (DCS).
+So my first version is the [B8 grip](https://www.thingiverse.com/thing:2235488/files) and a stick extension with a 90 degree bend.
+The grip and stick extension is designed to be swopped out for different aircraft. The B8 grip is correct for the Huey and F4 Phantom, but it's possible to add other combinations like the Mustang or the Hornet.
+
 ## future plans
 
 The amount of effort I can put into the project depends on contributions from people like you. 
-If you have some spare cash and would like to support future development make a contribution at ko.fi
+If you have some spare cash and would like to support future development please make a contribution at ko.fi
+Depending on community support I would like to:
 
-* make the build easier by converting parts to 3d printable versions
+* make the build easier by converting parts to 3D printable versions
 * start a shop where you can buy all the parts in a kit
 * improve software
 * expand game support
+* create more fixed wing variations 
 * replace potentiometers with magnetic rotation sensors
 * improve aesthetics
 * build other cool stuff like pedals, collective etc

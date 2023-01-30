@@ -23,15 +23,14 @@ If you would like to build a prototype version you can find [instructions in the
 
 ## initial version
 
-I specifically wanted something that works for the UH-1H Huey helicopter in Digital Combat Simulator (DCS).
-So my first version is the [B8 grip](https://www.thingiverse.com/thing:2235488/files) and a stick extension with a 90 degree bend.
-The grip and stick extension is designed to be swopped out for different aircraft. The B8 grip is correct for the Huey and F4 Phantom, but it's possible to add other combinations like the Mustang or the Hornet.
+I specifically wanted something that works for the UH-1H Huey helicopter in Digital Combat Simulator (DCS), so my first version uses the [B8 grip](https://www.thingiverse.com/thing:2235488/files) and a stick extension with a 90 degree bend.
+The grip and stick extension are designed to be swopped out for different aircraft. The B8 grip is correct for the Huey and coming F4 Phantom, but it's possible to add other combinations like the Mustang or the Hornet.
 
 ## future plans
 
 The amount of effort I can put into the project depends on contributions from people like you. 
 If you have some spare cash and would like to support future development please make a contribution at ko.fi
-Depending on community support I would like to:
+Depending on how much community support there is I would like to:
 
 * make the build easier by converting parts to 3D printable versions
 * start a shop where you can buy all the parts in a kit

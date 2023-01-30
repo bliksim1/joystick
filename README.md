@@ -1,7 +1,7 @@
 # Bliksim joystick - UH-1H Huey helicopter edition
 An DIY JOYSTICK for flight simulation that allows complete control over centering and tension. 
 
-The joystick can transistion between
+The joystick can seamlessly transistion between
 * centering (returns to center)
 * off-center bias (returns to somewhere other than center)
 * no centering (stays where you leave it - more or less - WIP)
